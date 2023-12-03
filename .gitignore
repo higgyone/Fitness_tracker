@@ -162,3 +162,5 @@ cython_debug/
 #Garmin data
 Garmin_data.zip
 Garmin_data/
+xt_310_files
+xt_735_files
